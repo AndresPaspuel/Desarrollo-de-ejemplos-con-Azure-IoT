@@ -94,12 +94,68 @@ Sus especificaciones la hacen ideal para el desarrollo de prototipos, ya que dis
 6.	LISTA DE COMPONENTES
 
 -Computador
+
 -Cuenta Microsoft Azure
+
 -Instalacion de Visual Studio Code
 
+7.	MAPA DE VARIABLES
+
+➔	function: para definir nuestra función y llamarla cuando sea necesario.
+
+➔	var: para las variables declaradas fuera de cualquier función.
+
+➔	const: constante la cual no cambiará su valor en ningún momento.
+
+➔	if/else: sirven cuando entran en cumplir las condiciones.
+
+➔	catch: señala un bloque de instrucciones a intentar ( try ), y especifica una respuesta si se produce una excepción ( catch 
+
+➔	return: retorna un mensaje.
 
 
+8.	EXPLICACIÓN DEL CÓDIGO FUENTE
+
+Conectar el simulador en línea de Raspberry Pi a Azure IoT Hub
+
+En este trabajo, empezaremos por aprender los principios básicos del uso del simulador en línea de Raspberry Pi.
+Como paso principal es el de crear un Centro  de IoT para que este pueda recibir los valores aleatorios que se genera en el Raspberry Pi Azure IoT Online, para que pueda recibir esos valores es necesario copiar la cadena de conexión principal, ya que sin ella el código que está generado ya por defecto no tendrá un lugar hacia donde dirigir los mensajes que se este generando.
+
+9.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
+Conectar el simulador en línea de Raspberry Pi a Azure IoT Hub
+
+1.	Crear un Centro de IoT.
+
+2.	Registrar un dispositivo para Pi en IoT Hub.
 
 
+10.	APORTACIONES
 
+ La aportación con la que se trabajó fue implementar con la extensión  Visual Studio Code  fue necesario implementar la biblioteca Herramienta de Azure Iot para poder desarrollar conectividad desde nuestro centro de Iot que se encuentra en Azure y conectar a través de Visual Studio . 
 
+![image](https://user-images.githubusercontent.com/63418581/91106265-d76c2500-e637-11ea-986b-b36356d25597.png)
+
+11.	CONCLUSIONES
+
+●	En Azure IoT llega a ser un gran aliado porque los ejemplos desarrollados nos sirven de base para comprender como es su funcionamiento y lo que se puede llegar a obtener en un proyecto que sea más grande (ya entrando en ámbito laboral).
+
+●	La latencia entre los datos y la toma de decisiones llega a ser inmediata ya que los datos recibidos son en tiempo real lo que permite obtener las conclusiones inmediatas necesarias para tomar decisiones empresariales.
+
+●	La interfaz que nos ofrece la plataforma es amigable porque la manera de crear un IoT es fácil y claro que hay que tener en cuenta que los valores a cobrar cada mes suben dependiendo de la necesidad que nosotros necesitemos en ese momento.
+
+12.	RECOMENDACIONES
+
+●	No dejar algún punto sin revisar porque esto puede ocasionar que al momento de ejecutar nuestro trabajo no se generaría datos y por lo cual no podríamos ver si el ejemplo funciona correctamente.
+
+●	Revisar todos los sitios que estén relacionados a Azure IoT porque muchos de los sitios solo nos proporciona información básica, y no sobre lo que realmente se pretende hacer en un trabajo de investigación.
+
+13.	CRONOGRAMA
+
+![image](https://user-images.githubusercontent.com/63418581/91106301-eeab1280-e637-11ea-8cff-729e742b72a1.png)
+
+14.	BIBLIOGRAFÍA
+
+García, C. (2016). Integración de Redes Telemáticas. Universidad Oberta de Catalunya. Obtenido de http://openaccess.uoc.edu/webapps/o2/bitstream/10609/40187/6/cgmuelasTFC0115memoria.pdf
+
+JACOBSON, R. M. (2017). Comparativa y estudio de plataformas IoT. Universitat Politécnica de Catalunya. Obtenido de https://core.ac.uk/download/pdf/148622479.pdf
