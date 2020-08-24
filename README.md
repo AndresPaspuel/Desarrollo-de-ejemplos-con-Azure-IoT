@@ -40,3 +40,7 @@ Las principales estructuras de Internet of things (IoT) se resumen en
 
 Sensores y actuadores: estamos dando a nuestro mundo un sistema nervioso digital. Ubicación de datos utilizando sensores GPS, los ojos y las orejas con cámaras y micrófonos, junto con los órganos sensoriales que pueden medir todo, desde la temperatura a cambios de presión.
 
+![12](https://user-images.githubusercontent.com/66221550/91105127-e00f2c00-e634-11ea-8147-3ab1c5d4e72e.jpg)
+
+Digitalización: estas entradas se digitalizan y se colocan en las redes.
+
