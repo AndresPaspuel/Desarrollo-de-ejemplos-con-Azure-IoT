@@ -1,3 +1,5 @@
+MICROSOFT AZURE IOT 💻🖥   
+
 1.	PLANTEAMIENTO DEL PROBLEMA
 
 Microsoft Azure  de IoT  nos permite  utilizar tecnologías inteligentes para conectar objetos en cualquier lugar a cualquier hora. El internet de las cosas se ha convertido en una tendencia emergente para los investigadores , jóvenes estudiantes de Ingeniería  y la industria a nivel mundial , debido a las múltiples posibilidades de desarrollo que este genera.
