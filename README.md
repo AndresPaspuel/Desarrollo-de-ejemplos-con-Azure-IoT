@@ -87,6 +87,11 @@ En cuanto al SO El Raspberry Pi usa mayoritariamente sistemas operativos basados
 
 Sus especificaciones la hacen ideal para el desarrollo de prototipos, ya que dispone de todo tipo de conectividad de serie, y soporta multitud de distribuciones Linux. Además, son muchas las plataformas que incluyen opciones de conexión hechas a medida para esta placa.
 
+5.	DIAGRAMAS
+
+![image](https://user-images.githubusercontent.com/63418581/91106067-63ca1800-e637-11ea-8f93-1102512890ef.png)
+
+
 
 
 
