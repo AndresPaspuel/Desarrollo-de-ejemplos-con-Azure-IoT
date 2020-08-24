@@ -48,4 +48,48 @@ Digitalización: estas entradas se digitalizan y se colocan en las redes.
 
 Personas & Procesos : estas entradas en la red se pueden combinar en sistemas bidireccionales que integran datos, personas, procesos y sistemas para la mejora en la toma de decisiones.
 
+![15](https://user-images.githubusercontent.com/66221550/91105598-16997680-e636-11ea-8eab-20cdf12c5a3d.jpg)
+
+Microsoft Azure IoT
+
+Segun (JACOBSON, 2017) Azure IoT Es una plataforma que permite administrar la comunicación bidireccional, fiable y segura entre dispositivos IoT y un back-end de soluciones, tales como
+
+·         IoT Hub (centro de comunicación con los dispositivos).
+
+·         Stream Analytics (servicio que permite analizar y hacer un procesado inicial de los datos).
+
+·         Event Hub (servicio para configurar y lanzar eventos que desencadenen acciones).
+
+·         Web Apps (se encarga de la parte visual o de una API de acceso).
+
+·         Bases de Datos (para almacenar datos procesados
+
+Además Microsoft ofrece un conjunto de aplicaciones IoT en Azure para crear escenarios específicos desde cero o desde soluciones pre-configuradas como:
+
+·         Almacenaje y sincronización de metadatos e información de estados entre dispositivos mediante “Dispositivos Gemelos”.
+
+·         Autenticación por dispositivo y conectividad segura mediante una clave segura única por dispositivo y un registro de identidades en IoT Hub.
+
+·         Definición de rutas de mensajes a partir de reglas de enrutamiento, con el fin de controlar desde donde son enviados los mensajes del dispositivo a la nube.
+
+·         Compatibilidad con un amplio conjunto de dispositivos mediante los SDK de dispositivo IoT de Azure, los cuales son compatibles con plataformas como Linux, Windows y sistemas operativos en tiempo real, y con lenguajes como C#, Java y Javascript.
+
+Azure IoT implementa el modelo de comunicación asistida por servicio para mediar en las interacciones entre los dispositivos y su back-end de soluciones la comunicación se realiza mediante los protocoles MQTT v3.1.1, HTTP 1.1 o AMPQ 1.0 de forma nativa. Otros protocolos son admitidos mediante Azure IoT Edge y la personalización de la puerta de enlace de protocolo de IoT Azure
+
+Visual Studio Code
+
+Es un editor de código fuente ligero pero potente que se ejecuta en su escritorio y está disponible para Windows, macOS y Linux. Viene con soporte incorporado para JavaScript, TypeScript y Node.js y tiene un rico ecosistema de extensiones para otros lenguajes (como C ++, C #, Java, Python, PHP, Go) y tiempos de ejecución (como .NET y Unity) .
+ 
+
+Raspberry Pi es un ordenador de placa reducida o placa única de bajo coste, desarrollado en Reino Unido por la Fundación Raspberry Pi, con el objetivo de estimular la enseñanza de ciencias de la computación en las escuelas.
+
+En cuanto al SO El Raspberry Pi usa mayoritariamente sistemas operativos basados en el núcleo Linux. Raspbian, una distribución derivada de Debian que está optimizada para el hardware de Raspberry Pi, se lanzó durante julio de 2012 y es la distribución recomendada por la fundación para iniciarse.
+
+Sus especificaciones la hacen ideal para el desarrollo de prototipos, ya que dispone de todo tipo de conectividad de serie, y soporta multitud de distribuciones Linux. Además, son muchas las plataformas que incluyen opciones de conexión hechas a medida para esta placa.
+
+
+
+
+
+
 
