@@ -44,3 +44,8 @@ Sensores y actuadores: estamos dando a nuestro mundo un sistema nervioso digital
 
 Digitalización: estas entradas se digitalizan y se colocan en las redes.
 
+![14](https://user-images.githubusercontent.com/66221550/91105443-b1de1c00-e635-11ea-9104-34a4a03c3fbb.jpg)
+
+Personas & Procesos : estas entradas en la red se pueden combinar en sistemas bidireccionales que integran datos, personas, procesos y sistemas para la mejora en la toma de decisiones.
+
+
