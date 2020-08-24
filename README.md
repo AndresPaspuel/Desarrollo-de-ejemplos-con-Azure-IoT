@@ -91,6 +91,11 @@ Sus especificaciones la hacen ideal para el desarrollo de prototipos, ya que dis
 
 ![image](https://user-images.githubusercontent.com/63418581/91106067-63ca1800-e637-11ea-8f93-1102512890ef.png)
 
+6.	LISTA DE COMPONENTES
+
+-Computador
+-Cuenta Microsoft Azure
+-Instalacion de Visual Studio Code
 
 
 
